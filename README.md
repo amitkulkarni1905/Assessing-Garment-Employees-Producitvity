@@ -1,6 +1,6 @@
 # Assessing-Garment-Employees-Producitvity
 
-Here the goal of the project is to find the different factors which impact the factory of Productivity
+Here the goal of the project is to find the different factors which impact the factor of Productivity
 
 So the endeavour was done using Multiple Linear Regression model
 
