@@ -16,3 +16,6 @@ are correlated with Actual Producitivity of the Garment Workers
 We have also constructed the Multiple Linear Regression equation to predict new actual productivity value &
 
 We have assessed the performance of the model with Error rate which came out to be 0.23 which is satisfactory
+
+Dataset used here was sourced by Abdullah Al Imran and obtained from UCL Machine Learning Repository
+Dataset link : https://archive.ics.uci.edu/ml/datasets/Productivity+Prediction+of+Garment+Employees#
